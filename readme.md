@@ -1,6 +1,7 @@
-# Consulting Associate {year} Technical Assessment Sample
+# Consulting Associate Technical Assessment Sample
 
-The following is a sample of the technical coding assessment. Please read through following instructions before starting the assessment. You will be given **{duration} hours** ({start_time}-{end_time} (HK Time)) to complete the assessment.
+The following is a sample of the technical coding assessment. Please read through following instructions before starting the assessment. 
+You will be given **1 hour** to complete the coding assessment and **30 minutes** to complete the solutioning assessment (i.e. **1.5 hours** in total).
 
 <hr>
 
@@ -72,7 +73,7 @@ Please refer to the sample questions and solutions for the I/O handling of each 
 <hr>
 
 ## 5. Submission Guide
-Check-in the entire source code together with your answer to the **master branch of your own repository (i.e., Either GitLab (https://gitlab.com/) or GitHub (https://github.com/))** and submit the link to {submission_location}
+Check-in the entire source code together with your answer to the **master branch of your own repository (i.e., Either GitLab (https://gitlab.com/) or GitHub (https://github.com/))** and submit the link to the submissions form.
 
 You are expected to configure your own repository as **PUBLIC** such that IBM recruitment team can access and download the submitted code for evaluation.
 
@@ -81,6 +82,6 @@ Also please find the following example URL format:
 - Valid repository URL format example: https://github.com/John_Chan/example-repo
 - Invalid repository URL format example: https://gitlab.com/John_Chan/example-repo/-/tree/my-branch
 
-N.B.1: You are expected to commit your code to your own repository before {submission_deadline} (HK Time), and to submit to {submission_location} before {submission_deadline} (HK Time). Late submission will not be considered.
+N.B.1: You are expected to commit your code to your own repository before the deadline stated in the submission form. Late submission will not be considered.
 
 N.B.2: In case of duplicate submissions, IBM recruitment team will take the latest submission before the deadline as the final version.
