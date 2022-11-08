@@ -21,10 +21,10 @@ Version: OpenJDK 11.0.8
 Version: Node.js v14.9.0
 
 ### 1.1.4 C
-Version: GCC 12.0.0
+Version: GCC 12.2.0
 
 ### 1.1.5 C++
-Version: GCC 12.0.0
+Version: GCC 12.2.0
 
 ### 1.2 SQL
 Version: MySQL 8.0.23
